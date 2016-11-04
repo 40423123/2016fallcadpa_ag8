@@ -322,10 +322,12 @@ g.es("admin pelican 近端執行完畢")
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20161020092035.12">## 40423123 簡報
-##設計二甲 第8組
-
-
+<t tx="leo.20161020092035.12">&lt;h3&gt;&lt;a href="https://40423123.github.io/2016fallcadp_hw/#/"&gt;40423123&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423129.github.io/2016fallcadp_hw/#/"&gt;40423129&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423132.github.io/2016fallcadp_hw/#/"&gt;40423132&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423133.github.io/2016fallcadp_hw/#/"&gt;40423133&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423155.github.io/2016fallcabp_hw/#/"&gt;40423155&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423157.github.io/2016fallcadp_hw/#/"&gt;40423157&lt;/a&gt;&lt;/h3&gt;
 
     &lt;/script&gt;
 &lt;/section&gt;
@@ -655,11 +657,10 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161020092035.9">## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第8組
 
-### Welcome to the third group
+
 
 &lt;small&gt;
-Created by [Hakim El Hattab](http://hakim.se)
-[@hakimel](http://twitter.com/hakimel)
+Created by林嘉文
 &lt;/small&gt;
 
 [blog](blog/index.html)
