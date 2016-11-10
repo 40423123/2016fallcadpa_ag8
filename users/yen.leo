@@ -323,7 +323,7 @@ g.es("admin pelican 近端執行完畢")
     &lt;script type="text/template"&gt;
 </t>
 <t tx="leo.20161020092035.12">&lt;h3&gt;&lt;a href="https://40423123.github.io/2016fallcadp_hw/#/"&gt;40423123&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;a href="https://40423129.github.io/2016fallcadp_hw/#/"&gt;40423129&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://40423129.github.io/2016cadp_hw/#/"&gt;40423129&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="https://40423132.github.io/2016fallcadp_hw/#/"&gt;40423132&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="https://40423133.github.io/2016fallcadp_hw/#/"&gt;40423133&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="https://40423155.github.io/2016fallcabp_hw/#/"&gt;40423155&lt;/a&gt;&lt;/h3&gt;
