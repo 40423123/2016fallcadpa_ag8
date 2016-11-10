@@ -1,9 +1,5 @@
 #第8組倉儲
 
-簡報: https://40423123.github.io/2016fallcadp_ag8/#/
-
-網誌: 
-
 組員:
 <h3><a href="https://40423123.github.io/2016fallcadp_hw/#/">40423123</a></h3>
 <h3><a href="https://40423129.github.io/2016cadp_hw/#/">40423129</a></h3>
